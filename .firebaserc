@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "dotpeadmin": {
+      "hosting": {
+        "argon-dashboard-angular": [
+          "dotpeadmin"
+        ]
+      }
+    }
+  }
+}
